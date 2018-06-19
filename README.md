@@ -1,3 +1,6 @@
-# LS-APIMarvel
+# Marvelist
+## Descrição
 A project made with HTML5, CSS and JavaScript. Is based on Marvel's API.
-Test.
+## Inspiração
+## Protótipos
+## Recursos da API
