@@ -169,11 +169,12 @@ btnLoadMore.addEventListener('click', () => {
     fetch(fetchedUrl)
     .then(response2 => response2.json())
     .then(searchDataLoaded => {
-        nothingShow=`<div class="text-center col-md-12">
+            nothingShow =
+            `<div class="text-center col-md-12">
                 <i class="material-icons">error</i>
-                <p style="margin-bottom:0px">Nothing to show anymore!</p>
-                <p>Hulk gonna smash!</p>
-                <img src="images/loadedAll.png" style="heigth: 100px; width: 150px;">
+                <p style="margin-bottom:0px">Can't find!</p>
+                <p>I guess my maximum effort doesn't work anymore.</p>
+                <img src="images/notFoundImage.png" style="heigth: 100px; width: 150px;">
             </div>`
         res=searchResponse(searchDataLoaded)
         console.log('cont É',cont)
