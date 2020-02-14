@@ -32,7 +32,7 @@
 
 ## :notebook: About 
 
-This repository consists of storing the project produce the discipline of Scripts Language Programming 2018.1
+This repository consists of storing the project produced in the discipline of Scripts Language Programming 2018.1
 
 ---
 
